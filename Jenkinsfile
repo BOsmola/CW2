@@ -1,7 +1,7 @@
 pipeline {
     environment {
         registry = "bosmola/cw2"
-        registryCredential = 'ID'
+        registryCredential = '9ab11c77-938c-4c10-b7bb-a0ad5dd6d2b6'
         dockerImage = ''
     }
     agent any
